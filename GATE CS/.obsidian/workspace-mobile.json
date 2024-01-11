@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "25affd0eb5997703",
+    "type": "split",
+    "children": [
+      {
+        "id": "605a1566a88927e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ec2ccea5516891",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "166925cda58595bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4e9efa7c8b8df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Programming/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a3c428391deb295",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e4355af1ad3ee7f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3dac7ef7f1590101",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "924eeae7d7402460",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "80c08855bf82b918",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "cbee4cce4f678753",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f6998e78f42e4d90",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "C Programming/Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "915f085599c28e57",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "C Programming/Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ccac150d7aa25f3a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "C Programming/Untitled.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d4e9efa7c8b8df0",
+  "lastOpenFiles": [
+    "Syllabus.md",
+    "C Programming/Untitled.md",
+    "Untitled",
+    "C Programming",
+    "cs.pdf",
+    "Syllabus 1.md"
+  ]
+}

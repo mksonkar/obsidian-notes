@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "3130ff7bc0fdc5d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a81fc88b07a211b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b1c77d253118d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/A-Z html.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31dce6cf961edd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavsScript/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e1363f1a98a951b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavsScript/Objects.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd3bbc8c6d996a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS Flexbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3709fb1248bd7196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Programming/Variable types in C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50116ef089bbee91",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75afb399e60043f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c59f7ef08a4541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6c9c6f81cbfc98a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1bedf11c8a00fe6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "7fd10e2318e8569e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf58230eb792de5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb00c5b80f291fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Programming/Variable types in C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a486f69e295e82c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C Programming/Variable types in C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6abe0907c5711a5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8db8a5db4b88f4fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Programming/Variable types in C.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "3709fb1248bd7196",
+  "lastOpenFiles": [
+    "HTML/A-Z html.md",
+    "JavsScript/API.md",
+    "C Programming/Variable types in C.md",
+    "JavsScript/Objects.md",
+    "CSS/CSS Flexbox.md",
+    "CSS/CSS Colors/The HSL color model.md",
+    "CSS/Font styling.md",
+    "JavsScript/Data Types.md",
+    "C Programming",
+    "JavsScript/JavaScript Roadmap.md",
+    "JavsScript/Variables.md",
+    "JavsScript/Classes.md",
+    "Front-end Roadmap.md",
+    "2024-01-07.md",
+    "Promises.md",
+    "Untitled.canvas",
+    "Objects.md",
+    "JavsScript/**Associative arrays**.md",
+    "HTML/HTML Forms.md",
+    "CSS/CSS Units.md",
+    "CSS/CSS Box model/The CSS Box model.md",
+    "CSS/CSS Box model/Pasted image 20231112035927.png",
+    "CSS/CSS Box model/Pasted image 20231112035426.png",
+    "CSS/CSS Colors/Gradient.md",
+    "CSS/CSS Typography.md",
+    "CSS/Flexbox.md",
+    "CSS/CSS Box model/cssfontstack.com.md",
+    "CSS/CSS Box model",
+    "CSS/CSS Colors",
+    "CSS",
+    "How  does the internet work?.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "HTML",
+    "JavsScript"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Typewriter",
+  "baseFontSize": 14,
+  "theme": "moonstone",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}
