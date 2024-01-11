@@ -1,1 +1,0 @@
-https://www.geeksforgeeks.org/getting-started-with-c/
