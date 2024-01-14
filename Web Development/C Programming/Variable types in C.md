@@ -91,4 +91,3 @@ both are same types of variable.
 - They are local scoped and life is till end of block.
 - Their default value is garbage value. 
 
-xyz testing line. delete afterwards
