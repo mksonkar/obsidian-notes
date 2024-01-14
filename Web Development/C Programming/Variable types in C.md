@@ -89,4 +89,6 @@ both are same types of variable.
 ### Register variable
 - Register variables are stored in the CPU register instead of a conventional storage place like RAM. 
 - They are local scoped and life is till end of block.
-- Their default value is garbage value;
+- Their default value is garbage value. 
+
+xyz testing line. delete afterwards
