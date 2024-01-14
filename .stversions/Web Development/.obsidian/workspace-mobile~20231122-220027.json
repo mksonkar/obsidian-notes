@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "9592fa07b110e527",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85812b9610166fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455ccec8708b7519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d64e2a296bf313e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5669077482e7ec45",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7526031903245f00",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b5bdd3bd0dbdec87",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "606543545df360ac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "440da81765de7a37",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "752f5e6f0015e020",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "JavaScript Roadmap.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0b1f6691f740bd07",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "JavaScript Roadmap.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7b7dea98d3467f3e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "JavaScript Roadmap.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "455ccec8708b7519",
+  "lastOpenFiles": [
+    "Data Types.md"
+  ]
+}
