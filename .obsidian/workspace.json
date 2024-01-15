@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/C Programming/Variable types in C.md",
+                "file": "Web Development/JavsScript/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d34e5c0fff3a26a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/JavsScript/three dots operator ....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54300f3bdc784d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/JavsScript/Map, Filter, Reduce.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/C Programming/Variable types in C.md",
+                "file": "Web Development/JavsScript/Map, Filter, Reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/C Programming/Variable types in C.md",
+                "file": "Web Development/JavsScript/Map, Filter, Reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/C Programming/Variable types in C.md"
+                "file": "Web Development/JavsScript/Map, Filter, Reduce.md"
               }
             }
           }
@@ -146,6 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b2baa4b0feeade",
-  "lastOpenFiles": []
+  "active": "54300f3bdc784d4e",
+  "lastOpenFiles": [
+    "Web Development/JavsScript/three dots operator ....md",
+    "Web Development/JavsScript/Map, Filter, Reduce.md",
+    "Web Development/JavsScript/API.md",
+    "Web Development/C Programming/Variable types in C.md",
+    "README.md"
+  ]
 }
