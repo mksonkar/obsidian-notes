@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/Map, Filter, Reduce.md",
+                "file": "Web Development/JavsScript/three dots operator ....md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/Map, Filter, Reduce.md",
+                "file": "Web Development/JavsScript/three dots operator ....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/Map, Filter, Reduce.md",
+                "file": "Web Development/JavsScript/three dots operator ....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/Map, Filter, Reduce.md"
+                "file": "Web Development/JavsScript/three dots operator ....md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "54300f3bdc784d4e",
   "lastOpenFiles": [
-    "Web Development/JavsScript/three dots operator ....md",
     "Web Development/JavsScript/Map, Filter, Reduce.md",
+    "Web Development/JavsScript/three dots operator ....md",
     "Web Development/JavsScript/API.md",
     "Web Development/C Programming/Variable types in C.md",
     "README.md"
