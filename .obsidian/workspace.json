@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/three dots operator ....md",
+                "file": "GATE CS/C Programming/C Syllabus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39dd22e470850f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GATE CS/Useful links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/three dots operator ....md",
+                "file": "GATE CS/Useful links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/three dots operator ....md",
+                "file": "GATE CS/Useful links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/three dots operator ....md"
+                "file": "GATE CS/Useful links.md"
               }
             }
           }
@@ -171,10 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54300f3bdc784d4e",
+  "active": "39dd22e470850f52",
   "lastOpenFiles": [
-    "Web Development/JavsScript/Map, Filter, Reduce.md",
+    "GATE CS/C Programming/C Syllabus.md",
+    "GATE CS/DS Algo/DS Algo Syllabus.md",
+    "GATE CS/Syllabus pdf.pdf",
+    "GATE CS/Useful links.md",
+    "GATE CS/DS Algo",
     "Web Development/JavsScript/three dots operator ....md",
+    "Web Development/JavsScript/Map, Filter, Reduce.md",
     "Web Development/JavsScript/API.md",
     "Web Development/C Programming/Variable types in C.md",
     "README.md"
