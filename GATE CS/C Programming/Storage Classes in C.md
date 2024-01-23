@@ -1,5 +1,16 @@
+![[Pasted image 20240121234249.png]]
+### Auto variable
+- All local variables are auto by default.
+- Their scope is local and lifetime till end of block.
+- Eg. 
+```c 
+	 auto int a = 10;
+	 int b = 10;
+```
+both are same types of variable.
+- Auto variables are block scoped, but they can also be accessed outside their scope by using pointers to point to the exact memory location where they are stored.
+- auto variables are assigned a garbage value by default.
 ### Static variable
-
 - A _static_ variable has lifetime till the end of the program. It can only be initialised once. 
 - Once its initialised, further initialisation will have no affect. 
 - It's default value is 0. (as opposed to a local variable whose default value is garbage value.)
@@ -61,33 +72,25 @@ Explanation:
 - Whereas, when the static variable y is initialised the first time when `test()` is called, it's value is set to 10, and after incrementing by 10, 20 is printed on the output, but the static variable is not destroyed (ie. it sticks around as it's life is till end of program) 
 - So far we can't see a difference between the two variables x and y.
 - But when `test()` is called again for the second time, we can see that the variable `x` is initialised again and its value is set to `x = 10` again, and after incrementing it prints the same value as before. 
-- Whereas, the static variable `y` is not initialised again because it wasn't destroyed from before. Hence, it's value is 20 from the last call. Now its incremented again and its new value 30 is printed on the output. j
-
-
-### Automatic variable
-
-- All local variables are auto by default.
-- Their scope is local and lifetime till end of block.
-- Eg. 
-```c 
-	 auto int a = 10;
-	 int b = 10;
-```
-both are same types of variable.
+- Whereas, the static variable `y` is not initialised again because it wasn't destroyed from before. Hence, it's value is 20 from the last call. Now its incremented again and its new value 30 is printed on the output. 
 
 ### External variable
-
-- External variables can be shared between multiple files.
+- External variables can be shared between multiple files of a project.
 - Their scope is global and they exist between multiple files. 
+- An extern variable is basically a global variable initialised to be used elsewhere.
 - Eg. 
 ```c
 	extern int a;
 ```
 - Here, no memory is allocated for a, only the property of the variable is announced. 
-- Multiple declarations of extern variable is allowed. (which is not the case for automatic variables).
-- 
+- **Multiple declarations** of extern variable **is allowed**. (which is not the case for automatic variables).
+- extern variables have **life till the end of program.**
+- They have a **default value of 0.** 
 ### Register variable
 - Register variables are stored in the CPU register instead of a conventional storage place like RAM. 
-- They are local scoped and life is till end of block.
-- Their default value is garbage value. 
+- The compiler tries to store a register variable in the register of the microprocessor if a free register is available.
+- If a free register is not available, then it is stored in the memory itself.
+- Usually a few variables that are accessed very frequently in the program are stored in register variables.
+- They are **local scoped** and **life is till end of block**.
+- Their **default value** is **garbage value**. 
 

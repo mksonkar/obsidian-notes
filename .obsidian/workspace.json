@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/three dots operator ....md",
+                "file": "Web Development/JavsScript/three dots ... operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GATE CS/C Programming/C Syllabus.md",
+                "file": "GATE CS/C Programming/Storage Classes in C.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5110321044922
   },
   "right": {
     "id": "8c0b51d63d49420f",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE CS/C Programming/C Syllabus.md",
+                "file": "GATE CS/C Programming/Storage Classes in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE CS/C Programming/C Syllabus.md",
+                "file": "GATE CS/C Programming/Storage Classes in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATE CS/C Programming/C Syllabus.md"
+                "file": "GATE CS/C Programming/Storage Classes in C.md"
               }
             }
           }
@@ -195,19 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8787fa7e817b7b60",
+  "active": "b53b3494bc4adff2",
   "lastOpenFiles": [
+    "Pasted image 20240121234249.png",
+    "GATE CS/C Programming/C Syllabus.md",
+    "Web Development/JavsScript/three dots ... operator.md",
+    "GATE CS/C Programming/Storage Classes in C.md",
     "GATE CS/Marks distribution.md",
     "Web Development/How  does the internet work?.md",
     "GATE CS/Syllabus pdf.pdf",
     "GATE CS/Useful links.md",
-    "GATE CS/C Programming/C Syllabus.md",
-    "Web Development/JavsScript/three dots operator ....md",
     "Web Development/JavsScript/API.md",
     "GATE CS/DS Algo/DS Algo Syllabus.md",
     "GATE CS/DS Algo",
     "Web Development/JavsScript/Map, Filter, Reduce.md",
-    "GATE CS/C Programming/Variable types in C.md",
     "README.md"
   ]
 }
