@@ -8,67 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39dd22e470850f52",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "GATE CS/Syllabus pdf.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "d34e5c0fff3a26a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/three dots ... operator.md",
+                "file": "Web Development/JavsScript/JavaScript Roadmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54300f3bdc784d4e",
+            "id": "87851f77d0d2dbf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GATE CS/C Programming/C Syllabus.md",
+                "file": "Web Development/JavsScript/History.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "776aa2793e7b39d5",
+            "id": "28e72ef342ba1c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/How  does the internet work?.md",
+                "file": "Web Development/JavsScript/Closure.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b53b3494bc4adff2",
+            "id": "658d2f50f53d51f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GATE CS/C Programming/Storage Classes in C.md",
+                "file": "Web Development/JavsScript/Constructor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GATE CS/C Programming/Storage Classes in C.md",
+                "file": "Web Development/JavsScript/History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GATE CS/C Programming/Storage Classes in C.md",
+                "file": "Web Development/JavsScript/History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GATE CS/C Programming/Storage Classes in C.md"
+                "file": "Web Development/JavsScript/History.md"
               }
             }
           }
@@ -195,17 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b53b3494bc4adff2",
+  "active": "87851f77d0d2dbf9",
   "lastOpenFiles": [
-    "Pasted image 20240121234249.png",
-    "GATE CS/C Programming/C Syllabus.md",
-    "Web Development/JavsScript/three dots ... operator.md",
-    "GATE CS/C Programming/Storage Classes in C.md",
-    "GATE CS/Marks distribution.md",
-    "Web Development/How  does the internet work?.md",
-    "GATE CS/Syllabus pdf.pdf",
-    "GATE CS/Useful links.md",
+    "c01f001.png",
+    "Web Development/JavsScript/JavaScript Roadmap.md",
+    "Web Development/JavsScript/History.md",
     "Web Development/JavsScript/API.md",
+    "GATE CS/Syllabus pdf.pdf",
+    "Web Development/How  does the internet work?.md",
+    "GATE CS/C Programming/Storage Classes in C.md",
+    "Web Development/JavsScript/three dots ... operator.md",
+    "GATE CS/C Programming/C Syllabus.md",
+    "Web Development/JavsScript/Closure.md",
+    "Web Development/JavsScript/Constructor.md",
+    "Pasted image 20240121234249.png",
+    "GATE CS/Marks distribution.md",
+    "GATE CS/Useful links.md",
     "GATE CS/DS Algo/DS Algo Syllabus.md",
     "GATE CS/DS Algo",
     "Web Development/JavsScript/Map, Filter, Reduce.md",
