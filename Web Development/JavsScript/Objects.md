@@ -4,7 +4,7 @@
 const person = {};
 ```
 
-Example: c
+Example: 
 ```js
 const person = {
 	name: ['Mukesh', 'Kumar'],
@@ -83,3 +83,31 @@ person["name"]["first"];
 ```
 This is very similar to how you access items in an array and is basically the same thing -- instead of using index numbers to select an item, you are using the name associated with each member's value. Because of this reason, objects are also called **Associative arrays**.
 
+Dot notation is generally preferred over bracket notation generally, as it is more succinct and easier to read.
+But there are some cases where you must use bracket notation, eg. when the property name is passed through a variable.
+
+```js
+const person = {
+	name: ["Mukesh", "Kumar"],
+	age: 26,
+};
+
+function logProperty(propertyName) {
+	console.log(person[propertyName]);
+}
+logProperty[name]; // ["Mukesh", "Kumar"]
+logProperty[age]; // 26
+```
+here, in the function logProperty, inside console.log the property name is provided using bracket notation as it is a variable.
+
+## Setting object members
+Similar to getting object properties, you can also set object properties or even create new properties and methods.
+eg. 
+```js
+person.age = 30;
+person["name"]["last"] = "Kumar";
+
+person.farewell = () => {
+	console.log("bye!");
+}
+```
