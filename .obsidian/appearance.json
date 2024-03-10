@@ -1,10 +1,11 @@
 {
-  "accentColor": "#64bb3e",
+  "accentColor": "",
   "cssTheme": "Obsidian gruvbox",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "custom"
   ],
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }
