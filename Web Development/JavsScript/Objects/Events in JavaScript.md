@@ -24,4 +24,3 @@ For eg.
 ```js
 const btn = document.querySelector('button');
 ```
-
