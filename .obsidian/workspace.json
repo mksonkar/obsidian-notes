@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/Objects.md",
+                "file": "Web Development/JavsScript/Objects/Objects Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/Objects.md",
+                "file": "Web Development/JavsScript/Objects/Objects Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/Objects.md",
+                "file": "Web Development/JavsScript/Objects/Objects Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/Objects.md"
+                "file": "Web Development/JavsScript/Objects/Objects Basics.md"
               }
             }
           }
@@ -185,12 +185,12 @@
   },
   "active": "87851f77d0d2dbf9",
   "lastOpenFiles": [
+    "Web Development/JavsScript/Objects.md",
     "Web Development/JavsScript/Objects/Objects Basics.md",
     "Web Development/JavsScript/Objects/Events in JavaScript.md",
     "Web Development/JavsScript/Objects/Constructors.md",
     "Web Development/JavsScript/Objects",
     "Web Development/JavsScript/History.md",
-    "Web Development/JavsScript/Objects.md",
     "c01f001.png",
     "Web Development/JavsScript/JavaScript Roadmap.md",
     "Web Development/JavsScript/API.md",
