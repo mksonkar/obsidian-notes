@@ -1,8 +1,10 @@
 {
   "accentColor": "#64bb3e",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Obsidian gruvbox",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "custom"
-  ]
+  ],
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }
