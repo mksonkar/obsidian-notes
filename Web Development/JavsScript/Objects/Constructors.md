@@ -63,5 +63,4 @@ const myVideo = document.querySelector('video');
 - For each webpage loaded, an instance of Document is created, called document, 
 - which represents the entire page's structure, content and other features such as its URL.
 - This is why, it has several methods and properties available on it.
-
 - Same is true for Array, Math etc.

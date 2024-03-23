@@ -19,3 +19,5 @@ The Function.prototype.bind() method can set the value of a function's this rega
 2. Implicit binding
 3. Explicit binding
 4. Constructor call binding
+
+#### 1. Default Binding in JS

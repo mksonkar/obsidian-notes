@@ -13,74 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/JavaScript Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87851f77d0d2dbf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavsScript/Closure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f14ff3fdeb14bb80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavsScript/call, apply, bind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d8e76b3ae9ec99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavsScript/this keyword.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28e72ef342ba1c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavsScript/Closure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "658d2f50f53d51f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JavsScript/Constructor.md",
+                "file": "Web Development/JavsScript/Objects/The prototype.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/this keyword.md",
+                "file": "Web Development/JavsScript/Objects/The prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/this keyword.md",
+                "file": "Web Development/JavsScript/Objects/The prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/this keyword.md"
+                "file": "Web Development/JavsScript/Objects/The prototype.md"
               }
             }
           },
@@ -215,32 +154,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8e76b3ae9ec99b",
+  "active": "d34e5c0fff3a26a4",
   "lastOpenFiles": [
-    "Web Development/JavsScript/call, apply, bind.md",
-    "Web Development/JavsScript/this keyword.md",
-    "Web Development/JavsScript/Closure.md",
-    "Web Development/JavsScript/Objects/Events in JavaScript.md",
-    "Web Development/JavsScript/Objects/Objects Basics.md",
-    "Web Development/JavsScript/Objects.md",
-    "Web Development/JavsScript/Objects/Constructors.md",
-    "Web Development/JavsScript/Objects",
-    "Web Development/JavsScript/History.md",
-    "c01f001.png",
     "Web Development/JavsScript/JavaScript Roadmap.md",
+    "Web Development/JavsScript/Closure.md",
+    "Web Development/How  does the internet work?.md",
+    "Web Development/Front-end Roadmap.md",
+    "Web Development/JavsScript/Variables.md",
+    "Web Development/JavsScript/three dots ... operator.md",
+    "Web Development/JavsScript/Objects/this keyword.md",
+    "Web Development/JavsScript/Map, Filter, Reduce.md",
+    "Web Development/JavsScript/History.md",
+    "Web Development/JavsScript/Data Types.md",
+    "Web Development/JavsScript/Constructor.md",
+    "Web Development/JavsScript/Classes.md",
+    "Web Development/JavsScript/call, apply, bind.md",
+    "Web Development/JavsScript/Objects/The prototype.md",
+    "Web Development/JavsScript/Objects/Prototype.md",
+    "Web Development/JavsScript/Objects/Objects Basics.md",
+    "Web Development/JavsScript/Objects/Events in JavaScript.md",
+    "Web Development/JavsScript/Objects/Constructors.md",
+    "Web Development/JavsScript/Objects.md",
+    "Web Development/JavsScript/Objects",
+    "c01f001.png",
     "Web Development/JavsScript/API.md",
     "GATE CS/Syllabus pdf.pdf",
-    "Web Development/How  does the internet work?.md",
     "GATE CS/C Programming/Storage Classes in C.md",
-    "Web Development/JavsScript/three dots ... operator.md",
     "GATE CS/C Programming/C Syllabus.md",
-    "Web Development/JavsScript/Constructor.md",
     "Pasted image 20240121234249.png",
     "GATE CS/Marks distribution.md",
     "GATE CS/Useful links.md",
     "GATE CS/DS Algo/DS Algo Syllabus.md",
     "GATE CS/DS Algo",
-    "Web Development/JavsScript/Map, Filter, Reduce.md",
     "README.md"
   ]
 }
