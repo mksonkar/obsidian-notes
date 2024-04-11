@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Getter and Setter.md",
+                "file": "Web Development/JavsScript/Objects/Constructors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Getter and Setter.md",
+                "file": "Web Development/JavsScript/Objects/Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Getter and Setter.md",
+                "file": "Web Development/JavsScript/Objects/Constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Getter and Setter.md"
+                "file": "Web Development/JavsScript/Objects/Constructors.md"
               }
             }
           },
@@ -169,25 +169,25 @@
   },
   "active": "f54610e82e0665f0",
   "lastOpenFiles": [
+    "Web Development/JavsScript/Data Types.md",
+    "Web Development/JavsScript/Closure.md",
+    "Web Development/JavsScript/Classes.md",
+    "Web Development/JavsScript/call, apply, bind.md",
+    "Web Development/JavsScript/Objects/this keyword.md",
+    "Web Development/JavsScript/Objects/Objects Basics.md",
+    "Web Development/JavsScript/Objects/Constructors.md",
     "Web Development/JavsScript/Objects/The prototype.md",
+    "Web Development/JavsScript/Objects/Events in JavaScript.md",
     "Web Development/JavsScript/Objects/Getter and Setter.md",
     "Web Development/JavsScript/JavaScript Roadmap.md",
-    "Web Development/JavsScript/Closure.md",
     "Web Development/How  does the internet work?.md",
     "Web Development/Front-end Roadmap.md",
     "Web Development/JavsScript/Variables.md",
     "Web Development/JavsScript/three dots ... operator.md",
-    "Web Development/JavsScript/Objects/this keyword.md",
     "Web Development/JavsScript/Map, Filter, Reduce.md",
     "Web Development/JavsScript/History.md",
-    "Web Development/JavsScript/Data Types.md",
     "Web Development/JavsScript/Constructor.md",
-    "Web Development/JavsScript/Classes.md",
-    "Web Development/JavsScript/call, apply, bind.md",
     "Web Development/JavsScript/Objects/Prototype.md",
-    "Web Development/JavsScript/Objects/Objects Basics.md",
-    "Web Development/JavsScript/Objects/Events in JavaScript.md",
-    "Web Development/JavsScript/Objects/Constructors.md",
     "Web Development/JavsScript/Objects.md",
     "Web Development/JavsScript/Objects",
     "c01f001.png",
