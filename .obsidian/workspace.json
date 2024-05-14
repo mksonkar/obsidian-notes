@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Web Development/JavsScript/Events.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -181,10 +181,12 @@
   },
   "active": "556494e697d9aa40",
   "lastOpenFiles": [
+    "Web Development/JavsScript/Objects/The prototype.md",
+    "Web Development/ReactJS/React Basics.md",
+    "Web Development/JavsScript/Events.md",
     "Web Development/JavsScript/JavaScript Roadmap.md",
     "Web Development/Front-end Roadmap.md",
     "Web Development/JavsScript/Async-Await.md",
-    "Web Development/JavsScript/Events.md",
     "Untitled.canvas",
     "Pasted image 20240121234249.png",
     "README.md",
@@ -196,8 +198,6 @@
     "Web Development/JavsScript/API.md",
     "Events.md",
     "Web Development/JavsScript/Objects/Constructors.md",
-    "Web Development/ReactJS/React Basics.md",
-    "Web Development/JavsScript/Objects/The prototype.md",
     "Web Development/ReactJS",
     "Web Development/JavsScript/Objects/this keyword.md",
     "Web Development/JavsScript/Objects/Objects Basics.md",

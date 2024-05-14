@@ -4,7 +4,7 @@
 Examples of events:
 - the user selects, clicks or hovers over an element.
 - the user presses a key on keyboard.
-- the user resizes of closes a browser window.
+- the user resizes or closes a browser window.
 - a web page finishes loading.
 - a form is submitted.
 - a video is played, paused, or ends.
@@ -31,7 +31,7 @@ function random(number) {
 }
 
 btn.addEventListener("click", () => {
-	const rndCol = `rgb(${random(255)} ${random(255)} ${random{255}})`;
+	const rndCol = `rgb(${random(255)} ${random(255)} ${random(255)})`;
 	document.body.style.backgroundColor = rndCol;
 });
 ```
@@ -47,7 +47,7 @@ Instead of using arrow function, you can keep the function separate and call the
 ```js
 btn.addEventListener('mouseover', changeBgColor);
 ```
-> Remember: here we only write function name and don't call it. 
+> ***Remember***: here we only write function name and don't call it. 
 > If you call the function, then it will execute once immediately and the listener won't work.
 
 ### Remove listeners
@@ -55,7 +55,7 @@ btn.addEventListener('mouseover', changeBgColor);
 btn.removeEventListener('click', changeBgColor);
 ```
 
-Event handlers can also be removed by passing an `AbortSignal` to `addEventListener()` and then later calling `abort()` on the controller owning the `AbortSignal`.
+**Event handlers can also be removed by passing an `AbortSignal` to `addEventListener()` and then later calling `abort()` on the controller owning the `AbortSignal`.**
 ```js
 const controller = new AbortController();
 
@@ -89,7 +89,7 @@ btn.onclick = () => {
 	...
 }
 ```
-> Imp info: You can only add one event handler property to an element. 
+> **Imp info**: You can only add one event handler property to an element. 
 > Adding more than one will overwrite the previous ones.
 
 >But with `addEventListener()` you can add multiple event handlers on the same element. 
@@ -150,7 +150,7 @@ textBox.addEventListener("keydown", (event) => {
 	output.textContent = `You pressed "${event.key}".`;
 });
 ```
-`keydown` event has an event object `KeyboardEvent` which has a standard set of methods and properties.
+`keydown` event has an event object `KeyboardEvent` which has a standard set of methods and properties like `event.key` which returns the key pressed.
 
 ### Preventing default behaviour e.preventDefault()
 There are some situations when you want to prevent the default behaviour of an event.
@@ -263,7 +263,7 @@ box.addEventListener("click", () => box.classList.add("hidden"));
 
 #### Event capture
 It is an alternative form of event propagation.
-It is like event bubbling with order reversed.
+**It is like event bubbling with order reversed.**
 so it fires first on the least nested element, then moves inward.
 
 > Event capture is disabled by default, it can be enabled by passing `capture` option in `addEventListener()`
