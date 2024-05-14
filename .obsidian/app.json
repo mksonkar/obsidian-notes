@@ -1,6 +1,6 @@
 {
   "vimMode": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "readableLineLength": true

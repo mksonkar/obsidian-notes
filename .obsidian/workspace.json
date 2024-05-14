@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "f54610e82e0665f0",
+            "id": "1f255299c03b7d0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Constructors.md",
+                "file": "Web Development/ReactJS/React Basics.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "556494e697d9aa40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/JavsScript/Events.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Constructors.md",
+                "file": "Web Development/JavsScript/Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Constructors.md",
+                "file": "Web Development/JavsScript/Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/Objects/Constructors.md"
+                "file": "Web Development/JavsScript/Events.md"
               }
             }
           },
@@ -167,38 +179,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f54610e82e0665f0",
+  "active": "556494e697d9aa40",
   "lastOpenFiles": [
+    "Web Development/JavsScript/JavaScript Roadmap.md",
+    "Web Development/Front-end Roadmap.md",
+    "Web Development/JavsScript/Async-Await.md",
+    "Web Development/JavsScript/Events.md",
+    "Untitled.canvas",
+    "Pasted image 20240121234249.png",
+    "README.md",
+    "c01f001.png",
     "Web Development/JavsScript/Data Types.md",
     "Web Development/JavsScript/Closure.md",
     "Web Development/JavsScript/Classes.md",
     "Web Development/JavsScript/call, apply, bind.md",
+    "Web Development/JavsScript/API.md",
+    "Events.md",
+    "Web Development/JavsScript/Objects/Constructors.md",
+    "Web Development/ReactJS/React Basics.md",
+    "Web Development/JavsScript/Objects/The prototype.md",
+    "Web Development/ReactJS",
     "Web Development/JavsScript/Objects/this keyword.md",
     "Web Development/JavsScript/Objects/Objects Basics.md",
-    "Web Development/JavsScript/Objects/Constructors.md",
-    "Web Development/JavsScript/Objects/The prototype.md",
     "Web Development/JavsScript/Objects/Events in JavaScript.md",
     "Web Development/JavsScript/Objects/Getter and Setter.md",
-    "Web Development/JavsScript/JavaScript Roadmap.md",
     "Web Development/How  does the internet work?.md",
-    "Web Development/Front-end Roadmap.md",
     "Web Development/JavsScript/Variables.md",
     "Web Development/JavsScript/three dots ... operator.md",
     "Web Development/JavsScript/Map, Filter, Reduce.md",
     "Web Development/JavsScript/History.md",
     "Web Development/JavsScript/Constructor.md",
     "Web Development/JavsScript/Objects/Prototype.md",
-    "Web Development/JavsScript/Objects.md",
     "Web Development/JavsScript/Objects",
-    "c01f001.png",
-    "Web Development/JavsScript/API.md",
     "GATE CS/Syllabus pdf.pdf",
-    "GATE CS/C Programming/Storage Classes in C.md",
-    "GATE CS/C Programming/C Syllabus.md",
-    "Pasted image 20240121234249.png",
-    "GATE CS/Marks distribution.md",
-    "GATE CS/Useful links.md",
-    "GATE CS/DS Algo/DS Algo Syllabus.md",
     "GATE CS/DS Algo"
   ]
 }

@@ -1,5 +1,5 @@
 There are mainly two types of programming languages: 
-1. **Statically typed** - Each variable and expression type is already known at compile time. 
+1. **Statically typed** - Each variable and expression **type** is already known at compile time. 
 		- Eg. C, C++, Java
 2. **Dynamically typed** - Each variable and hold different data types. 
 		- Eg. Python, JavaScript, Ruby
