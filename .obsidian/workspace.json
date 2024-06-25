@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/JavsScript/Events.md",
+                "file": "Web Development/ReactJS/React Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c0b51d63d49420f",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/JavsScript/Events.md",
+                "file": "Web Development/ReactJS/React Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/JavsScript/Events.md",
+                "file": "Web Development/ReactJS/React Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/JavsScript/Events.md"
+                "file": "Web Development/ReactJS/React Basics.md"
               }
             }
           },
@@ -181,11 +182,11 @@
   },
   "active": "556494e697d9aa40",
   "lastOpenFiles": [
+    "Web Development/JavsScript/Events.md",
     "Web Development/JavsScript/Data Types.md",
     "Web Development/JavsScript/Closure.md",
     "Web Development/JavsScript/Classes.md",
     "Web Development/JavsScript/Async-Await.md",
-    "Web Development/JavsScript/Events.md",
     "Web Development/JavsScript/History.md",
     "Web Development/JavsScript/Objects/The prototype.md",
     "Web Development/ReactJS/React Basics.md",
