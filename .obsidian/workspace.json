@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/ReactJS/React Basics.md",
+                "file": "Web Development/ReactJS/React Roadmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Web Development/ReactJS/React Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb36b665a8968ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Web Development/ReactJS/React Basics.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "8c0b51d63d49420f",
@@ -180,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "556494e697d9aa40",
+  "active": "eb36b665a8968ccd",
   "lastOpenFiles": [
+    "Web Development/ReactJS/React Roadmap.md",
+    "Web Development/ReactJS/React Basics.md",
     "Web Development/JavsScript/Events.md",
     "Web Development/JavsScript/Data Types.md",
     "Web Development/JavsScript/Closure.md",
@@ -189,7 +202,6 @@
     "Web Development/JavsScript/Async-Await.md",
     "Web Development/JavsScript/History.md",
     "Web Development/JavsScript/Objects/The prototype.md",
-    "Web Development/ReactJS/React Basics.md",
     "Web Development/JavsScript/JavaScript Roadmap.md",
     "Web Development/Front-end Roadmap.md",
     "Untitled.canvas",
