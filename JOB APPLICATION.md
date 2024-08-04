@@ -2,7 +2,7 @@
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Front End Development Internship position at \[ company name ]. As a passionate developer with expertise in HTML, CSS, JavaScript, ReactJS, Node.js, and software testing using Jest, I am excited about the opportunity to contribute to your team and further develop my skills.
+I am writing to express my strong interest in the Front End Development Internship position at \[company name]. As a passionate developer with expertise in HTML, CSS, JavaScript, ReactJS, Node.js, and software testing using Jest, I am excited about the opportunity to contribute to your team and further develop my skills.
 
 
 My technical skills and experience include:
