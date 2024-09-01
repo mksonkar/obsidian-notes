@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Frontend and JS.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ff6acd04683f5ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "router settings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/Frontend and JS.md",
+                "file": "router settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview/Frontend and JS.md",
+                "file": "router settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview/Frontend and JS.md"
+                "file": "router settings.md"
               }
             }
           },
@@ -154,18 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f439f8971036539e",
+  "active": "8ff6acd04683f5ba",
   "lastOpenFiles": [
-    "Interview/ReactJS.md",
+    "README.md",
+    "router settings.md",
+    "Untitled.canvas",
     "Interview/Frontend and JS.md",
+    "Interview/ReactJS.md",
     "Web Development/ReactJS/Keeping Components Pure.md",
     "Web Development/ReactJS/React Basics.md",
-    "README.md",
     "Web Development/ReactJS/React Roadmap.md",
     "Web Development/JavsScript/Objects/The prototype.md",
     "Interview",
     "JOB APPLICATION.md",
-    "Untitled.canvas",
     "Web Development/JavsScript/Events.md",
     "Web Development/JavsScript/Data Types.md",
     "Web Development/JavsScript/Closure.md",
@@ -186,7 +200,6 @@
     "Web Development/JavsScript/Objects/Events in JavaScript.md",
     "Web Development/JavsScript/Objects/Getter and Setter.md",
     "Web Development/How  does the internet work?.md",
-    "Web Development/JavsScript/Variables.md",
     "Web Development/JavsScript/Objects",
     "GATE CS/Syllabus pdf.pdf",
     "GATE CS/DS Algo"
