@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "router settings.md",
+                "file": "Web Development/ReactJS/React Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3545d043934d051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/ReactJS/Data flow in React.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "router settings.md",
+                "file": "Web Development/ReactJS/Data flow in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "router settings.md",
+                "file": "Web Development/ReactJS/Data flow in React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "router settings.md"
+                "file": "Web Development/ReactJS/Data flow in React.md"
               }
             }
           },
@@ -167,15 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff6acd04683f5ba",
+  "active": "c3545d043934d051",
   "lastOpenFiles": [
-    "README.md",
+    "Web Development/ReactJS/React Basics.md",
+    "Web Development/ReactJS/Data flow in React.md",
+    "Web Development/ReactJS/Keeping Components Pure.md",
     "router settings.md",
+    "README.md",
     "Untitled.canvas",
     "Interview/Frontend and JS.md",
     "Interview/ReactJS.md",
-    "Web Development/ReactJS/Keeping Components Pure.md",
-    "Web Development/ReactJS/React Basics.md",
     "Web Development/ReactJS/React Roadmap.md",
     "Web Development/JavsScript/Objects/The prototype.md",
     "Interview",
@@ -199,7 +212,6 @@
     "Web Development/JavsScript/Objects/Objects Basics.md",
     "Web Development/JavsScript/Objects/Events in JavaScript.md",
     "Web Development/JavsScript/Objects/Getter and Setter.md",
-    "Web Development/How  does the internet work?.md",
     "Web Development/JavsScript/Objects",
     "GATE CS/Syllabus pdf.pdf",
     "GATE CS/DS Algo"
