@@ -7,5 +7,3 @@
 * If data were moving in all directions from different components, it would be very difficult to comprehend the logic and data flow of the React app.
 - Because of which any optimization you tried to implement on the app would not be as efficient as it could be.
 
-- Data in React can be props or state
-- Props data belongs to the parent that renders the component, while state data belongs to the component itself 
