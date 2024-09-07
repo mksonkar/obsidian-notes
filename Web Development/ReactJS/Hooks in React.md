@@ -8,3 +8,7 @@ Hooks are functions that let you hook into React state, and lifecycle features f
 Hooks have two main benefits: 
 - Readability 
 - Usability
+
+- You can only call hooks at the top level of your components (or your own hooks)
+- You cannot call hooks inside loops or conditions.
+- You can only call hooks from React functions, and not regular JavaScript functions.
