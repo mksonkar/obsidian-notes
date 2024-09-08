@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/ReactJS/Hooks in React.md",
+                "file": "Web Development/ReactJS/Data in React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7415428d165df71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/ReactJS/State management.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/ReactJS/Hooks in React.md",
+                "file": "Web Development/ReactJS/State management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/ReactJS/Hooks in React.md",
+                "file": "Web Development/ReactJS/State management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/ReactJS/Hooks in React.md"
+                "file": "Web Development/ReactJS/State management.md"
               }
             }
           },
@@ -166,11 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e565b93c525231f",
+  "active": "e7415428d165df71",
   "lastOpenFiles": [
-    "Web Development/ReactJS/Data flow in React.md",
-    "Web Development/ReactJS/Hooks in React.md",
     "Web Development/ReactJS/Data in React.md",
+    "Web Development/ReactJS/State management.md",
+    "Web Development/ReactJS/Hooks in React.md",
+    "Web Development/ReactJS/Data flow in React.md",
     "Web Development/ReactJS/React Basics.md",
     "README.md",
     "Web Development/ReactJS/Keeping Components Pure.md",
@@ -198,7 +212,6 @@
     "Web Development/JavsScript/Objects/Constructors.md",
     "Web Development/ReactJS",
     "Web Development/JavsScript/Objects/this keyword.md",
-    "Web Development/JavsScript/Objects/Objects Basics.md",
     "Web Development/JavsScript/Objects",
     "GATE CS/Syllabus pdf.pdf",
     "GATE CS/DS Algo"
