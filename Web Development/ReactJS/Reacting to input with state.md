@@ -42,4 +42,4 @@ When developing a component:
 2. Determine the human and computer triggers for the states changes.
 3. Model the state using 'useState'.
 4. Remove non-essential states to avoid bugs and paradoxes.
-	1. Connect the event handlers to set state.
+5. Connect the event handlers to set state.
