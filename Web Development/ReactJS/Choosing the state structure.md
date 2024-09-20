@@ -21,3 +21,12 @@ The goal of these principles is to make state easy to update without introducing
 
 This is similar to how a database engineer might want to **normalize** the database structure to reduce the chances of bugs.
 "Make your state as simple as possible"
+
+### RECAP
+- If two state variables always update together, consider merging them into one.
+- Choose your state variables carefully, to avoid creating impossible states.
+- Structure your state in such a way, that chances of making mistakes when updating it reduces.
+- Avoid redundant and duplicate states, so that you don't need to keep them in sync.
+- Don't create state from props, unless you want to ignore changes from the parent where prop is passed from.
+- For UI patterns like selection, keep the id or index in state, instead of the object itself.
+- If the state is deeply nested, consider flattening (normalizing) it.
