@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d9b27a2d3a7c300",
+        "id": "e512129a31f1059a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e565b93c525231f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/ReactJS/Data in React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7415428d165df71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/ReactJS/State management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f94f4c709460b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/ReactJS/Reacting to input with state.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7231b319b7820c7",
+            "id": "b0a0f28aaf6a58e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +20,19 @@
             }
           },
           {
-            "id": "a18c989285d8e416",
+            "id": "34d75b2b33c6e242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/ReactJS/Data flow in React.md",
+                "file": "Web Development/ReactJS/Preserving and Resetting State.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/ReactJS/Choosing the state structure.md",
+                "file": "Web Development/ReactJS/Preserving and Resetting State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/ReactJS/Choosing the state structure.md",
+                "file": "Web Development/ReactJS/Preserving and Resetting State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/ReactJS/Choosing the state structure.md"
+                "file": "Web Development/ReactJS/Preserving and Resetting State.md"
               }
             }
           },
@@ -203,13 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7231b319b7820c7",
+  "active": "34d75b2b33c6e242",
   "lastOpenFiles": [
+    "Web Development/ReactJS/Choosing the state structure.md",
+    "Web Development/ReactJS/Preserving and Resetting State.md",
+    "Web Development/ReactJS/Data flow in React.md",
     "Web Development/ReactJS/Reacting to input with state.md",
     "Web Development/ReactJS/State management.md",
     "Web Development/ReactJS/Data in React.md",
-    "Web Development/ReactJS/Data flow in React.md",
-    "Web Development/ReactJS/Choosing the state structure.md",
     "Interview/Frontend and JS.md",
     "Interview/ReactJS.md",
     "Web Development/ReactJS/Hooks in React.md",
@@ -234,7 +199,6 @@
     "c01f001.png",
     "Web Development/JavsScript/call, apply, bind.md",
     "Web Development/JavsScript/API.md",
-    "Events.md",
     "Web Development/ReactJS",
     "Web Development/JavsScript/Objects",
     "GATE CS/Syllabus pdf.pdf",
