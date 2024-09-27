@@ -34,3 +34,5 @@ You should not nest component functions because,
 if the outer component gets re-rendered, then the inner component will be created again, and the state of the component inside will not be preserved. 
 
 Hence, always declare components at the top level, and never nest their definitions.
+
+## Resetting state at the same position
