@@ -23,3 +23,9 @@ React will keep the state as long as the same component is rendered at the same 
 If it gets removed, or a different component is rendered at the same position, React discards the state.
 
 ## Same component at the same position preserves state
+## Different components at the same position resets state
+When you render a different component in the same position, it resets the state of its entire subtree.
+
+As a rule of thumb, 
+**if you want to preserve state between re-renders, the structure of the tree should be the same across renders.**
+If the structure changes, then react destroys the state associated with part of the tree that changed including its subtrees.
