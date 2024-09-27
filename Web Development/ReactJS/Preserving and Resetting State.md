@@ -29,3 +29,8 @@ When you render a different component in the same position, it resets the state 
 As a rule of thumb, 
 **if you want to preserve state between re-renders, the structure of the tree should be the same across renders.**
 If the structure changes, then react destroys the state associated with part of the tree that changed including its subtrees.
+
+You should not nest component functions because, 
+if the outer component gets re-rendered, then the inner component will be created again, and the state of the component inside will not be preserved. 
+
+Hence, always declare components at the top level, and never nest their definitions.
