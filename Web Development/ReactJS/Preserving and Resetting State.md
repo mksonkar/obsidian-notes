@@ -21,3 +21,5 @@ When one component is updated, only state of that component is updated.
 React will keep the state as long as the same component is rendered at the same position in the render tree.
 **React preserves a component's state as long as it's rendered at the same position in the UI Tree.**
 If it gets removed, or a different component is rendered at the same position, React discards the state.
+
+## Same component at the same position preserves state
