@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f4d391f15759111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/ReactJS/React Fiber Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/ReactJS/Preserving and Resetting State.md",
+                "file": "Web Development/ReactJS/React Fiber Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/ReactJS/Preserving and Resetting State.md",
+                "file": "Web Development/ReactJS/React Fiber Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/ReactJS/Preserving and Resetting State.md"
+                "file": "Web Development/ReactJS/React Fiber Architecture.md"
               }
             }
           },
@@ -167,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34d75b2b33c6e242",
+  "active": "8f4d391f15759111",
   "lastOpenFiles": [
-    "Web Development/ReactJS/Choosing the state structure.md",
     "Web Development/ReactJS/Preserving and Resetting State.md",
+    "Web Development/ReactJS/React Fiber Architecture.md",
+    "Web Development/ReactJS/Choosing the state structure.md",
     "Pasted image 20240927145258.png",
     "Pasted image 20240927145140.png",
     "Pasted image 20240927145120.png",
@@ -198,7 +211,7 @@
     "Web Development/JavsScript/History.md",
     "Web Development/JavsScript/JavaScript Roadmap.md",
     "Web Development/Front-end Roadmap.md",
-    "Pasted image 20240121234249.png",
+    "Storage classes in C.png",
     "c01f001.png",
     "Web Development/JavsScript/call, apply, bind.md",
     "Web Development/ReactJS",

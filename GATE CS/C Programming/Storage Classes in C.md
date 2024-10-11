@@ -1,4 +1,4 @@
-![[Pasted image 20240121234249.png]]
+![[Storage classes in C.png]]
 ### Auto variable
 - All local variables are auto by default.
 - Their scope is local and lifetime till end of block.
