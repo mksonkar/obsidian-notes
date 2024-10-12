@@ -1,7 +1,7 @@
 {
   "accentColor": "#9cba78",
   "cssTheme": "Material Gruvbox",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "custom"
   ],
