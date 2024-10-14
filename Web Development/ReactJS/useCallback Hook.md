@@ -1,0 +1,2 @@
+- useCallback is a hook that returns a [memoized](Memoization) version of a function.
+- It only calls the function again if one of its dependencies (provided in the dependency array) changes.

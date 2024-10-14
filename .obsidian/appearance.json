@@ -7,5 +7,6 @@
   ],
   "showViewHeader": true,
   "baseFontSizeAction": true,
-  "baseFontSize": 18
+  "baseFontSize": 19,
+  "textFontFamily": "Noto Sans"
 }
