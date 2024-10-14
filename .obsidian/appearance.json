@@ -1,6 +1,6 @@
 {
-  "accentColor": "#9cba78",
-  "cssTheme": "Material Gruvbox",
+  "accentColor": "#6b7fd6",
+  "cssTheme": "Catppuccin",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "custom"

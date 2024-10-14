@@ -1,1 +1,3 @@
-Memoization is an optimization technique.
+- Memoization is an optimization technique.
+- It is used to increase the performance of expensive or frequently executed function calls.
+- Instead of recomputing the result every time the function is called with the same inputs, it caches the results and returns the result immediately for same inputs. 
