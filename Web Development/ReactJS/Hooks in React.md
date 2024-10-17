@@ -72,7 +72,7 @@ for a form you can use a form object state to store all the fields,
 instead of creating separate state variables for all the fields.
 This makes the code more readable and avoids creating many state variables.
 
-In addition to the `useState` hook, React provides several other hooks  such as `useRef`, `useContext`, `useMemo` etc
+In addition to the `useState` hook, React provides several other hooks  such as `useEffect`, `useCallback`, `useRef`, `useContext`, `useMemo` etc
 
 When you need to share the same logic across several components, you can extract the logic inside a custom hook.
 
@@ -82,3 +82,9 @@ useRef is useful when you need to access directly with the DOM.
 useRef is used to access a child element directly.
 When you invoke the useRef hook, it will return a `ref` object
 The `ref` object has a property `current`.
+
+### useCallback
+[[useCallback Hook]]
+
+### useEffect
+

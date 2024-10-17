@@ -3,7 +3,7 @@
 - It only calls the function again if one of its dependencies (provided in the dependency array) changes.
 
 ### How `useCallback` memoizes a function
-1. **Function recreation on every render:** Normally, in React, functions inside components are redefined every time the component re-renders. This can cause performance issues if the function is passed as a prop to child components, or is used inside `useEffect`, since re-creating the function.
+1. **Function recreation on every render:** Normally, in React, functions inside components are redefined every time the component re-renders. This can cause performance issues if the function is passed as a prop to child components, or is used inside `useEffect`, since re-creating the function causes re-renders.
 2. **Memoization with `useCallback` hook:** When you wrap a function with `useCallback`, React memoizes that function and only recreates it when any of the dependencies in the dependency array changes. Otherwise it returns a **cached version** of the function, hence preventing unnecessary re-creation.
 ```js
 import { useCallback } from 'react';
