@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-icon-folder",
   "typewriter-mode",
-  "cycle-through-panes"
+  "cycle-through-panes",
+  "vim-yank-highlight",
+  "obsidian-relative-line-numbers"
 ]
