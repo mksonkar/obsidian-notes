@@ -4,3 +4,10 @@
 
 - In React, memoization, helps to avoid unnecessary recalculations and re-renders when components or functions are called with the same props.
 - To achieve this React uses the [`useCallback`](useCallback%20Hook) hook.
+
+### Ways to achieve memoization in React
+- **[[memo]]**
+- **[[useMemo Hook|useMemo]]**
+- **[[useCallback Hook|useCallback]]**
+
+### Difference between memo, useMemo & useCallback
