@@ -40,3 +40,8 @@ function Parent() {
 }
 ```
 Now `handleClick` is memoized, and React only re-creates it when its dependencies changes (in this case none). So unless there's some other reason for Parent component to re-render, the child won't re-render unnecessarily and will receive the cached version of memoized function `handleClick`.
+
+### Summary
+- Memoization avoids unnecessary re-computation.
+- `useCallback` is used to memoize functions, making them stable across renders, unless their dependencies changes.
+- Its especially useful for optimizing performance when passing callbacks to child components or using them in hooks like `useEffect`.
