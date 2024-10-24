@@ -79,9 +79,14 @@ When you need to share the same logic across several components, you can extract
 ### useRef
 useRef is useful when you need to access directly with the DOM.
 
-useRef is used to access a child element directly.
+**useRef is used to access a child element directly.**
+e.g. `inputRef.current.focus()`
 When you invoke the useRef hook, it will return a `ref` object
 The `ref` object has a property `current`.
+
+useRef is also used:
+- **Storing mutable values that don't need to trigger re-renders.**
+- **Preserving values across re-renders without causing a re-render.**
 
 ### useCallback
 [[useCallback Hook]]
