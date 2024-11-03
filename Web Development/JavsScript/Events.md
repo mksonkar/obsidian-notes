@@ -185,6 +185,7 @@ form.addEventListener("submit", (e) => {
 });
 ```
 
+### [[Event Propagation]]
 ### Event bubbling
 ```html
 <body>
