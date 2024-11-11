@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "6e8d763735027159",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "f5faa14606461299",
             "type": "leaf",
             "state": {
@@ -106,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -273,7 +285,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14aa3c6953f514b2",
+  "active": "6e8d763735027159",
   "lastOpenFiles": [
     "Web Development/ReactJS/React Fiber Architecture.md",
     "Web Development/ReactJS/Server and client components.md",
