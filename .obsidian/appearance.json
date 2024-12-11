@@ -1,7 +1,7 @@
 {
-  "accentColor": "#6b7fd6",
-  "cssTheme": "Catppuccin",
-  "theme": "moonstone",
+  "accentColor": "#8839ef",
+  "cssTheme": "",
+  "theme": "system",
   "enabledCssSnippets": [
     "custom"
   ],
