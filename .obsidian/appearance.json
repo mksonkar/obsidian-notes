@@ -8,5 +8,6 @@
   "showViewHeader": true,
   "baseFontSizeAction": true,
   "baseFontSize": 19,
-  "textFontFamily": "Noto Sans"
+  "textFontFamily": "Noto Sans",
+  "nativeMenus": false
 }
