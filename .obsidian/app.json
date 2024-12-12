@@ -3,6 +3,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "readableLineLength": true,
+  "readableLineLength": false,
   "tabSize": 2
 }

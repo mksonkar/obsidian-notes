@@ -13,6 +13,8 @@ There are 3 ways to declare a variable in JS:
 2. The **let** keyword : block scoped.
 3. The **const** keyword : use for constant values.
 
+[[var, let and const]]
+
 | **var**                                                                        | **let**                                                                                                                                   | **const**                                                                                                                                   |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | The scope of a var variable is functional scope.                               | The scope of a let variable is block scope.                                                                                               | The scope of a const variable is block scope.                                                                                               |
