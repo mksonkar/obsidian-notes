@@ -61,3 +61,9 @@ let b = 2;
 console.log(c); // ReferenceError: Cannot access 'c' before initialization
 const c = 3
 ```
+
+- In modern JavaScript, it is recommended to use `const` by default for variables that don't need to be reassigned.
+- This promotes immutability and prevents accidental changes.
+
+- Avoid using `var` due to potential for scoping issues and hoisting behaviour.
+- If you need to target older browsers, write modern JavaScript, and use a transpiler like Babel to compile your code to older syntax.
