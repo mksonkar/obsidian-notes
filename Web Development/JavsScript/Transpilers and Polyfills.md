@@ -11,4 +11,5 @@ if they will be supported in older browsers because Babel can be used to convert
 older source code so it can be supported by older browser engines.
 
 #### Use cases:
-- **ES6+ to ES5 (Backward compatibility)**
+- **ES6+ to ES5 (Backward compatibility)** : Newer versions of JavaScript ES6+, can introduce newer syntax and features that may not be supported by older or legacy browsers. A transpiler like Babel can convert the newer JavaScript code into older JavaScript code so that it can be supported by legacy browsers.
+		For e.g. Features like arrow functions, let, const, class 
