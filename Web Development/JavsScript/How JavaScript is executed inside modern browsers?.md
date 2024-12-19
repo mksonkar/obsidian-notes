@@ -24,8 +24,10 @@ When the browser encounters JavaScript code, the engine parses the code in two p
 
 ## 2. Compilation 
 (JIT compilation)
-Although, JavaScript is often said to be an interpreted language, 
+JavaScript is often said to be an interpreted language, 
+because in early days, JavaScript engines 
 modern JavaScript engines do not interpret JavaScript code directly as they did in early days.
+
 
 Instead they compiler it for better performance.
 The compilation occurs as such:
