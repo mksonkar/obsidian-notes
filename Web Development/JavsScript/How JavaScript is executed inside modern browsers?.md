@@ -24,12 +24,12 @@ When the browser encounters JavaScript code, the engine parses the code in two p
 
 ## 2. Compilation 
 (JIT compilation)
-JavaScript is often said to be an interpreted language, 
-because in early days, JavaScript engines 
-modern JavaScript engines do not interpret JavaScript code directly as they did in early days.
+JavaScript is often said to be an interpreted language, because in early days, JavaScript engines directly interpreted code line by line.
+This made execution simple but slow for complex applications.
 
-
+Modern JavaScript engines do not interpret JavaScript code directly as they did in early days.
 Instead they compiler it for better performance.
+
 The compilation occurs as such:
 a. **Bytecode**: 
 - After parsing, the AST is converted into an intermediate code called bytecode.
@@ -37,4 +37,4 @@ a. **Bytecode**:
 - The bytecode is then executed by the interpreter part of the JavaScript engine (e.g. Ignition in V8).
 
 b. **Just-In-Time (JIT) Compilation**
-- JIT is a hybrid approach that combines the in
+- JIT is a hybrid approach that combines the interpretation and compilation.
