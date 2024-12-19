@@ -39,4 +39,10 @@ a. **Bytecode**:
 b. **Just-In-Time (JIT) Compilation**
 - JIT is a hybrid approach that combines the interpretation and compilation.
 - JIT compiles parts of code just before execution at runtime.
-- As the code runs, the engine keeps track of hot code (frequently executed code, like loops and function calls)
+- As the code runs, the engine keeps track of **hot code** (frequently executed code, like loops and function calls).
+- For hot code, JIT complies the bytecode into machine code at runtime.
+- This **profiling** into hot and cold code, allows the user to optimise where necessary.
+- e.g. V8 uses **TurboFan** for this optimization process.
+
+c. **Execution**
+- Once the bytecode or machine code is ready, the engine executes it step by step.
