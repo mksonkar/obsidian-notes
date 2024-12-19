@@ -35,4 +35,4 @@ a. **Bytecode**:
 - The bytecode is then executed by the interpreter part of the JavaScript engine (e.g. Ignition in V8).
 
 b. **Just-In-Time (JIT) Compilation**
-- 
+- JIT is a hybrid approach that combines the in
