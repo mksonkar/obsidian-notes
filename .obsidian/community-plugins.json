@@ -6,5 +6,6 @@
   "cycle-through-panes",
   "vim-yank-highlight",
   "obsidian-relative-line-numbers",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "templater-obsidian"
 ]
