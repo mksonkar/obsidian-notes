@@ -38,3 +38,5 @@ a. **Bytecode**:
 
 b. **Just-In-Time (JIT) Compilation**
 - JIT is a hybrid approach that combines the interpretation and compilation.
+- JIT compiles parts of code just before execution at runtime.
+- As the code runs, the engine keeps track of hot code (frequently executed code, like loops and function calls)
