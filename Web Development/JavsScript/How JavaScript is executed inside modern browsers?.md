@@ -6,6 +6,7 @@ Firefox - SpiderMonkey
 Safari -  JavaScriptCore (Nitro)
 Legacy Edge - Chakra
 
+![[Pasted image 20241219160700.png]]
 The execution of JavaScript by a browser involves the following steps:
 ## 1. **Parsing**
 When the browser encounters JavaScript code, the engine parses the code in two phases:
@@ -42,9 +43,12 @@ b. **Just-In-Time (JIT) Compilation**
 - As the code runs, the engine keeps track of **hot code** (frequently executed code, like loops and function calls).
 - For hot code, JIT complies the bytecode into machine code at runtime.
 - This **profiling** into hot and cold code, allows the user to optimise where necessary.
-- e.g. V8 uses **TurboFan** for this optimization process.
+- e.g. V8 uses **TurboFan** for this optimisation process.
 
 c. **Execution**
 - Once the bytecode or machine code is ready, the engine executes it step by step.
 - **Call stack**: It is a data structure to keep track of where the engine is in the program's execution.
 		When a function is called, it is added to the top of the stack. Once the function finishes, it's removed from the stack.
+- **Heap**: In the heap data structure, objects, arrays and other complex data are stored in memory.
+	The heap is also used for dynamic allocations (e.g. creating new objects at runtime)
+- **Garbage Collection**: It is a process where the engine automatically cleans up memory that is no longer in usue.
