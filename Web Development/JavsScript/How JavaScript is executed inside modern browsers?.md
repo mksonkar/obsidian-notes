@@ -51,4 +51,8 @@ c. **Execution**
 		When a function is called, it is added to the top of the stack. Once the function finishes, it's removed from the stack.
 - **Heap**: In the heap data structure, objects, arrays and other complex data are stored in memory.
 	The heap is also used for dynamic allocations (e.g. creating new objects at runtime)
-- **Garbage Collection**: It is a process where the engine automatically cleans up memory that is no longer in usue.
+- **Garbage Collection**: It is a process where the engine automatically cleans up memory that is no longer in use.
+
+d. **Optimisation**
+- The JavaScript engine continuously monitors code while it's running to improve performance.
+- It profiles the entire code, for **hot code**, and optimises it for better performance.
