@@ -46,3 +46,5 @@ b. **Just-In-Time (JIT) Compilation**
 
 c. **Execution**
 - Once the bytecode or machine code is ready, the engine executes it step by step.
+- **Call stack**: It is a data structure to keep track of where the engine is in the program's execution.
+		When a function is called, it is added to the top of the stack. Once the function finishes, it's removed from the stack.
