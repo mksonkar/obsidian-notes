@@ -200,16 +200,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f21f843eba22fd7e",
   "lastOpenFiles": [
+    "Web Development/JavsScript/How JavaScript is executed inside modern browsers?.md",
     "Web Development/JavsScript/attachments/Pasted image 20241219160700.png",
     "Web Development/JavsScript/attachments/Pasted image 20241219160641.png",
     "Web Development/JavsScript/attachments",
     "Web Development/JavsScript/var, let and const.md",
-    "Web Development/JavsScript/How JavaScript is executed inside modern browsers?.md",
     "Web Development/JavsScript/Variables.md",
     "Web Development/JavsScript/Transpilers and Polyfills.md",
     "DSA",
