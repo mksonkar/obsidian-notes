@@ -29,7 +29,7 @@ JavaScript is often said to be an interpreted language, because in early days, J
 This made execution simple but slow for complex applications.
 
 Modern JavaScript engines do not interpret JavaScript code directly as they did in early days.
-Instead they compiler it for better performance.
+Instead they compile it for better performance.
 
 The compilation occurs as such:
 a. **Bytecode**: 
