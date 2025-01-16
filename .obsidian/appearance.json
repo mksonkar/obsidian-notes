@@ -1,6 +1,6 @@
 {
   "accentColor": "#8839ef",
-  "cssTheme": "",
+  "cssTheme": "Primary",
   "theme": "system",
   "enabledCssSnippets": [
     "custom"
