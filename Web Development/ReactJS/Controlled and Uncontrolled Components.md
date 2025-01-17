@@ -1,0 +1,1 @@
+These concepts define how form data is handled within a component.
