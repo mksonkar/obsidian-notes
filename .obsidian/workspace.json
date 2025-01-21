@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/ReactJS/A single source of truth for each state.md",
+                "file": "Web Development/ReactJS/Extracting State Logic into a Reducer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A single source of truth for each state"
+              "title": "Extracting State Logic into a Reducer"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "100c6ff68d5d47bd",
   "lastOpenFiles": [
-    "Web Development/To Learn.md",
     "Web Development/ReactJS/A single source of truth for each state.md",
+    "Web Development/To Learn.md",
     "Web Development/JavsScript/How JavaScript is executed inside modern browsers?.md",
     "Web Development/JavsScript/var, let and const.md",
     "Pasted image 20240927145120.png",
