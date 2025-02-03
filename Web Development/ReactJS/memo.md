@@ -13,3 +13,8 @@ const AnotherComponent = memo((props) => {
 	return <>{props.value}</>
 })
 ```
+- `memo` returns a memoized version of the component.
+
+## Usage
+
+### Skipping re-rendering when props are unchanged
